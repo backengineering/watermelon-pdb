@@ -6,5 +6,5 @@ pub struct MlnOMap {
     pub map: Vec<u32>,
 }
 impl MlnOMap {
-    pub const OMAP_INVALID_ADDRESS: u32 = 0xFFFFFFFF;
+    pub const INVALID_ADDRESS: u32 = 0xFFFFFFFF;
 }
