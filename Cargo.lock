@@ -3,13 +3,5 @@
 version = 4
 
 [[package]]
-name = "parser"
-version = "0.1.0"
-
-[[package]]
-name = "rewriter"
-version = "0.1.0"
-
-[[package]]
 name = "watermelon-pdb"
 version = "0.1.0"

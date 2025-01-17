@@ -1,8 +1,6 @@
-[workspace]
-resolver = "3"
+[package]
+name = "watermelon-pdb"
+version = "0.1.0"
+edition = "2024"
 
-members = [
-    "watermelon-pdb",   # main utils
-    "parser",           # parse pdb and create input file for watermelon.
-    "rewriter",         # remap/rewrite old pdb
-]
+[dependencies]
